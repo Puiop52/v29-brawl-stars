@@ -1,6 +1,11 @@
 <img width="1280" height="576" alt="photo_5472294707913234694_y" src="https://github.com/user-attachments/assets/b1656c75-c015-4509-9ff6-8976cc6337eb" />
 
 
+
+
+
+russo brawl v29
+
 > Original client and server from [@arhivebrawl](https://t.me/arhivebrawl)  
 > ⚠️ **Original code contained malware (Telegram bot stealing data)!**  
 > Client has been thoroughly cleaned. Server has been cleaned of junk and heavily improved.  
