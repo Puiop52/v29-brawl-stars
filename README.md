@@ -1,7 +1,5 @@
 <img width="1280" height="576" alt="photo_5472294707913234694_y" src="https://github.com/user-attachments/assets/b1656c75-c015-4509-9ff6-8976cc6337eb" />
-<img width="1280" height="576" alt="photo_5472294707913234694_y" src="https://github.com/user-attachments/assets/78aa0507-bfcc-42c9-b1e3-aff67a3138c6" />
-<img width="1280" height="576" alt="photo_5472294707913234694_y" src="https://github.com/user-attachments/assets/0a84a306-6ff4-4ad9-921f-a674c14346ca" />
-# Russo Brawl V29 — Private Server
+
 
 > Original client and server from [@arhivebrawl](https://t.me/arhivebrawl)  
 > ⚠️ **Original code contained malware (Telegram bot stealing data)!**  
